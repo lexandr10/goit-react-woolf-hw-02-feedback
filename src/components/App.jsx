@@ -10,6 +10,8 @@ export const App = () => {
         alignItems: 'center',
         fontSize: 40,
         color: '#010101',
+        paddingTop: '140px',
+        paddingBottom: '140px',
       }}
     >
       <FeedbackUser></FeedbackUser>
